@@ -1,3 +1,6 @@
+/**
+* crearIcosaedroTruncado: Funcion creada para construit el Icosaedro Truncado .
+*/
 function crearIcosaedroTruncado() {
 
     var phi = (1 + Math.sqrt(5)) / 2; // Golden ratio
